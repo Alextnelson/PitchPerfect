@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="8vy-pU-lBE">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9532" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="8vy-pU-lBE">
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
         <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
@@ -65,14 +65,14 @@
                                 <exclude reference="Bve-o8-Oc5"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="0GV-ek-Z6U"/>
+                                <exclude reference="pBN-Lq-t4I"/>
                                 <exclude reference="4Ow-Pz-tcj"/>
                                 <exclude reference="ONx-YX-OUf"/>
                                 <exclude reference="06M-No-1if"/>
                                 <exclude reference="WkL-7s-jFy"/>
                                 <exclude reference="Xrs-RB-Dre"/>
                                 <exclude reference="oLx-tB-DBm"/>
-                                <exclude reference="0GV-ek-Z6U"/>
-                                <exclude reference="pBN-Lq-t4I"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -83,14 +83,14 @@
                                 <include reference="Bve-o8-Oc5"/>
                             </mask>
                             <mask key="constraints">
+                                <include reference="0GV-ek-Z6U"/>
+                                <include reference="pBN-Lq-t4I"/>
                                 <include reference="4Ow-Pz-tcj"/>
                                 <include reference="ONx-YX-OUf"/>
                                 <include reference="06M-No-1if"/>
                                 <include reference="WkL-7s-jFy"/>
                                 <include reference="Xrs-RB-Dre"/>
                                 <include reference="oLx-tB-DBm"/>
-                                <include reference="0GV-ek-Z6U"/>
-                                <include reference="pBN-Lq-t4I"/>
                             </mask>
                         </variation>
                     </view>
